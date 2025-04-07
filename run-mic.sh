@@ -14,4 +14,4 @@ sudo mic create fs --arch=$PORT_ARCH \
 --record-pkgs=name,url \
 --outdir=sfe-$DEVICE-$RELEASE$EXTRA_NAME \
 --pack-to=sfe-$DEVICE-$RELEASE$EXTRA_NAME.tar.bz2 \
-Jolla-@RELEASE@-$DEVICE-@ARCH@.ks
+Jolla-@RELEASE@-$DEVICE-@ARCH@.ks1
